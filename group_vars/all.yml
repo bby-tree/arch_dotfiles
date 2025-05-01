@@ -2,4 +2,4 @@ default_roles:
   - system_upgrade
   - aur_helper
 
-ansible_aur_helper: paru
+ansible_aur_helper: yay
